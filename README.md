@@ -17,4 +17,4 @@
 
 
 
-[blog_link]: pig-cola.tistory.com
+[blog_link]: https://pig-cola.tistory.com
